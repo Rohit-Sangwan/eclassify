@@ -3,14 +3,14 @@ importScripts('https://www.gstatic.com/firebasejs/8.10.1/firebase-messaging.js')
 // // Initialize the Firebase app in the service worker by passing the generated config
 
 const firebaseConfig = {
-  apiKey: "AIzaSyADfC4SU5xHh3qKCiXf-7QixTvsW2WOaKw",
-  authDomain: "gg-marts.firebaseapp.com",
-  projectId: "gg-marts",
-  storageBucket: "gg-marts.firebasestorage.app",
-  messagingSenderId: "554736834741",
-  appId: "1:554736834741:web:e3dc943e0cbf86f822c6fc",
-  measurementId: "G-2XS8MEHVN2"
-};
+    apiKey: "AIzaSyCVcEMUFKbGTW_esDd1ZS1NrzgflRkx6_s",
+    authDomain: "ggmartss.firebaseapp.com",
+    projectId: "ggmartss",
+    storageBucket: "ggmartss.firebasestorage.app",
+    messagingSenderId: "564381852808",
+    appId: "1:564381852808:web:978643bc51364e8b666b3d",
+    measurementId: "G-7KQ1267NZV"
+  };
 
 
 firebase?.initializeApp(firebaseConfig)
